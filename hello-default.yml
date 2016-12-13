@@ -1,2 +1,3 @@
 app:
     name: dft
+    scope: hello
